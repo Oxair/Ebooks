@@ -21,13 +21,22 @@ https://github.com/Oxair/Python/tree/master/Reference-Books
  
 <details>
   <summary>E-Books | Python</summary>
+ 
     * A SmarterWay_to_Learn_Python
+ 
     * Deep Learning with Python
+    
     * Learning Git
+    
     * Learning Pandas
+    
     * Matplotlib for Python Developers
-    * NumPy 3rd Edition 2.pdf
+    
+    * NumPy 3rd Edition 2
+    
     * Python Crash Course
+    
     * Python for Data Analysis
+    
     * Workflow of version control
 </details>
